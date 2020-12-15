@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    height: 8vh;
+    background-color: #fff;
+    color: rgb(33, 67, 218);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+}
+nav ul{
+    list-style: none;
+}
+nav a{
+    padding: 0 50px;
+    text-decoration: none;
+    color: rgb(33, 67, 218);
+    font-family: sans-serif;
+}
+nav a:hover{
+    font-weight: bold;
+}
